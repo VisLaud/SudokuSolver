@@ -9,7 +9,7 @@ public class Grid
 	
 	// Constructs a Grid instance from a string[] as provided by TestGridSupplier.
 	// See TestGridSupplier for examples of input.
-	// Dots in input strings represent 0s in values[][].
+	// Dots in input strings represent 0ss in values[][].
 	//
 	public Grid(String[] rows)
 	{
